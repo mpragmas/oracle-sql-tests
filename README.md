@@ -17,6 +17,10 @@ This repository contains SQL commands to manage a system for handling customer o
 ## Conceptual Diagram
 
 ![Conceptual Diagram](./img/248.png)
+![Conceptual Diagram](./img/253.png)
+![Conceptual Diagram](./img/254.png)
+![Conceptual Diagram](./img/246.png)
+![Conceptual Diagram](./img/247.png)
 
 ## Sample SQL Queries
 
